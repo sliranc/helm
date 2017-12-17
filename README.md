@@ -9,6 +9,9 @@ pre-configured Kubernetes resources.
 
 Use Helm to:
 
+
+
+
 - Find and use [popular software packaged as Kubernetes charts](https://github.com/kubernetes/charts)
 - Share your own applications as Kubernetes charts
 - Create reproducible builds of your Kubernetes applications
